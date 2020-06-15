@@ -5,8 +5,10 @@
 [移动端地址](http://124.70.176.191/#/)
 [后台管理地址](http://124.70.176.191/admin)
 
-##移动端
+## 移动端
+
 ![alt](https://i.loli.net/2020/06/15/boidJ4YnXsxKBEl.jpg 压缩)
+
 ## Project setup
 ```
 npm install
