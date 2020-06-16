@@ -8,7 +8,7 @@
 ## 移动端
 
 <center class="half">
-    <img src="https://i.loli.net/2020/06/16/e9nt8jvGIEsTgBL.png" width="100"/><img         src="https://i.loli.net/2020/06/16/e9nt8jvGIEsTgBL.png" width="100"/>
+    <img src="https://i.loli.net/2020/06/16/e9nt8jvGIEsTgBL.png" width="200"/><img src="https://i.loli.net/2020/06/16/AZ1MI7zPYhwsltT.png" width="200"/>
 </center>
 
 ## 后台管理
@@ -31,15 +31,6 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
