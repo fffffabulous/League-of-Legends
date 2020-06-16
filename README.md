@@ -7,7 +7,7 @@
 
 ## 移动端
 
-![alt](https://i.loli.net/2020/06/15/boidJ4YnXsxKBEl.jpg 压缩)
+![](https://i.loli.net/2020/06/15/boidJ4YnXsxKBEl.jpg 压缩)
 
 ## Project setup
 ```
