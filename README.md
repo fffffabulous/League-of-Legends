@@ -13,7 +13,7 @@
 
 ## 后台管理
 
-![](https://i.loli.net/2020/06/16/TKUiYgDHqwn6IZv.png)
+![](https://i.loli.net/2020/06/16/QTWDgL3R581PXfu.png)
 
 
 ## Project setup
