@@ -7,7 +7,9 @@
 
 ## 移动端
 
-![](https://i.loli.net/2020/06/16/e9nt8jvGIEsTgBL.png) 
+<center class="half">
+    <img src="https://i.loli.net/2020/06/16/e9nt8jvGIEsTgBL.png" width="100"/><img         src="https://i.loli.net/2020/06/16/e9nt8jvGIEsTgBL.png" width="100"/>
+</center>
 
 
 
